@@ -1,2 +1,2 @@
 # this is my local repo
-<p>his is a new feature<p>
+<p>tis is a new feature<p>
